@@ -1,4 +1,6 @@
-# FaBo9AXIS-MPU9250-Python
+# FaBo9AXIS-MPU9250-Python3
+
+Forked `FaBo9AXIS-MPU9250-Python`, ported to Python3
 
 ## How to install.
 

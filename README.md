@@ -5,7 +5,7 @@ Forked `FaBo9AXIS-MPU9250-Python`, ported to Python3
 ## How to install.
 
 ```
-pip install FaBo9Axis_MPU9250
+pip install FaBo9Axis-MPU9250-Python3
 ```
 
 ## FaBo 9Axis I2C Brick
